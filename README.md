@@ -21,7 +21,7 @@ I am a third-year **Computer Science student at Strathmore University** with a p
 
 ### 📂 Featured Projects
 
-#### 🏠 [Rent Management System (RMS)](https://github.com/Mwezi-Rolex/Rent-Management-System)
+#### 🏠 [Rent Management System (RMS)](https://github.com/Mwezi-Rolex/rent_management_system)
 _Full-Stack Fintech Solution_
 * **Tech:** React.js, Node.js, MySQL, M-Pesa API, WorkOS AuthKit.
 * **Impact:** Automates rent collection via **M-Pesa API**, featuring real-time transaction verification (STK Push) and Role-Based Access Control (RBAC) for Landlords/Tenants.
