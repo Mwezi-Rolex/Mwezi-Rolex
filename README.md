@@ -1,16 +1,16 @@
-# Hi there, I'm Samuel Mugabi Mwesigwa! 👋
+# Hi there, I'm Samuel Mugabi Mwesigwa!
 
-### 🚀 Software Engineering Intern | Full Stack Developer | Product Engineer
+### Software Engineering Intern | Full Stack Developer | Product Engineer
 
 I am a third-year **Computer Science student at Strathmore University** with a passion for building scalable solutions in **FinTech**, **Logistics**, and **EdTech**. I bridge the gap between technical complexity and user needs, leveraging experience in **Spring Boot**, **Android**, and **React**.
 
-- 🔭 I’m currently working on **Voyage Flow** (Android Transport App) and **Rent Management System** (Fintech).
-- 👯 I’m looking to collaborate on **Open Source Java/Spring Boot projects** or **Android Apps**.
-- ⚡ Fun fact: I developed a zero-cost mail merge system for my Business Club using Google Apps Script!
+- I’m currently working on **Voyage Flow** (Android Transport App) and **Rent Management System** (Fintech).
+- I’m looking to collaborate on **Open Source Java/Spring Boot projects** or **Android Apps**.
+- Fun fact: I developed a zero-cost mail merge system for my Business Club using Google Apps Script!
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 | **Backend & Systems** | **Frontend & Mobile** | **DevOps & Tools** | **Data & AI** |
 |:---:|:---:|:---:|:---:|
@@ -19,37 +19,30 @@ I am a third-year **Computer Science student at Strathmore University** with a p
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
-#### 🏠 [Rent Management System (RMS)](https://github.com/Mwezi-Rolex/rent_management_system)
+#### [Rent Management System (RMS)](https://github.com/Mwezi-Rolex/rent_management_system)
 _Full-Stack Fintech Solution_
 * **Tech:** React.js, Node.js, MySQL, M-Pesa API, WorkOS AuthKit.
 * **Impact:** Automates rent collection via **M-Pesa API**, featuring real-time transaction verification (STK Push) and Role-Based Access Control (RBAC) for Landlords/Tenants.
 
-#### 🚌 [Voyage Flow](https://github.com/Mwezi-Rolex/Voyage-Flow)
+#### [Voyage Flow](https://github.com/Mwezi-Rolex/Voyage-Flow)
 _Nairobi Transport Navigation App_
 * **Tech:** Android (Java/Kotlin), Google Maps SDK.
 * **Impact:** Solves the "unknown stage location" problem for Nairobi commuters. Features real-time tracking, static route visualization, and i18n support (Eng/Fre/Swa).
 
-#### 🧠 [Metro Network Interchange Classifier](https://github.com/Mwezi-Rolex/Metro-Network-Classifier)
+#### [Metro Network Interchange Classifier](https://github.com/Mwezi-Rolex/Metro-Network-Classifier)
 _AI/ML Transportation Model_
 * **Tech:** Python, Pandas, Scikit-Learn.
 * **Impact:** A Supervised Learning model predicting high-traffic interchange hubs in metro networks. Utilizes geospatial data feature engineering.
 
-#### 🏗️ [Makao](https://github.com/Mwezi-Rolex/Makao)
+#### [Makao](https://github.com/Mwezi-Rolex/Makao)
 _Diaspora Investment Platform Prototype_
 * **Tech:** Figma, Double Diamond Framework.
 * **Impact:** Designed to mitigate fraud in diaspora real estate. Focuses on auditable communication and financial tracking.
 
 ---
 
-### 🏆 Leadership & Awards
-* **Secretary General**, Strathmore International Student Association (SISA).
-* **Director of Marketing**, Strathmore Business Club (SBC).
-* **Top Performer (Digital Skills)**, Recognized by Kenya Private Sector Alliance (KEPSA).
-
----
-
-### 📈 GitHub Stats
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwezi-Rolex&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwezi-Rolex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 Certifications
+* **Career Essentials in Software Development** - Awarding bodies: Microsoft & LinkedIn
+- **Advanced ICDL License** - Main topics: Word Processing, Spreadsheets (Excel), Project Planning
