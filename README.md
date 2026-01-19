@@ -1,54 +1,55 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# Hi there, I'm Samuel Mugabi Mwesigwa! 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
+### 🚀 Software Engineering Intern | Full Stack Developer | Product Engineer
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+I am a third-year **Computer Science student at Strathmore University** with a passion for building scalable solutions in **FinTech**, **Logistics**, and **EdTech**. I bridge the gap between technical complexity and user needs, leveraging experience in **Spring Boot**, **Android**, and **React**.
 
-<h2>📺 Popular YouTube Videos</h2>
+- 🔭 I’m currently working on **Voyage Flow** (Android Transport App) and **Rent Management System** (Fintech).
+- 👯 I’m looking to collaborate on **Open Source Java/Spring Boot projects** or **Android Apps**.
+- ⚡ Fun fact: I developed a zero-cost mail merge system for my Business Club using Google Apps Script!
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
 
-<h2> 🤳 Connect with me:</h2>
+### 🛠️ Technical Skills
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+| **Backend & Systems** | **Frontend & Mobile** | **DevOps & Tools** | **Data & AI** |
+|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📂 Featured Projects
 
-Here are some ideas to get you started:
+#### 🏠 [Rent Management System (RMS)](https://github.com/Mwezi-Rolex/Rent-Management-System)
+_Full-Stack Fintech Solution_
+* **Tech:** React.js, Node.js, MySQL, M-Pesa API, WorkOS AuthKit.
+* **Impact:** Automates rent collection via **M-Pesa API**, featuring real-time transaction verification (STK Push) and Role-Based Access Control (RBAC) for Landlords/Tenants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚌 [Voyage Flow](https://github.com/Mwezi-Rolex/Voyage-Flow)
+_Nairobi Transport Navigation App_
+* **Tech:** Android (Java/Kotlin), Google Maps SDK.
+* **Impact:** Solves the "unknown stage location" problem for Nairobi commuters. Features real-time tracking, static route visualization, and i18n support (Eng/Fre/Swa).
+
+#### 🧠 [Metro Network Interchange Classifier](https://github.com/Mwezi-Rolex/Metro-Network-Classifier)
+_AI/ML Transportation Model_
+* **Tech:** Python, Pandas, Scikit-Learn.
+* **Impact:** A Supervised Learning model predicting high-traffic interchange hubs in metro networks. Utilizes geospatial data feature engineering.
+
+#### 🏗️ [Makao](https://github.com/Mwezi-Rolex/Makao)
+_Diaspora Investment Platform Prototype_
+* **Tech:** Figma, Double Diamond Framework.
+* **Impact:** Designed to mitigate fraud in diaspora real estate. Focuses on auditable communication and financial tracking.
+
+---
+
+### 🏆 Leadership & Awards
+* **Secretary General**, Strathmore International Student Association (SISA).
+* **Director of Marketing**, Strathmore Business Club (SBC).
+* **Top Performer (Digital Skills)**, Recognized by Kenya Private Sector Alliance (KEPSA).
+
+---
+
+### 📈 GitHub Stats
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwezi-Rolex&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwezi-Rolex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
