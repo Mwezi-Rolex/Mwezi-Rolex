@@ -10,6 +10,12 @@ I am a third-year **Computer Science student at Strathmore University** with a p
 
 ---
 
+### 🏆 Certifications
+* **Career Essentials in Software Development** (Microsoft & LinkedIn)
+- **Advanced ICDL License** (Word Processing, Spreadsheets/Excel, Project Planning)
+
+---
+
 ### Technical Skills
 
 | **Backend & Systems** | **Frontend & Mobile** | **DevOps & Tools** | **Data & AI** |
@@ -40,9 +46,3 @@ _AI/ML Transportation Model_
 _Diaspora Investment Platform Prototype_
 * **Tech:** Figma, Double Diamond Framework.
 * **Impact:** Designed to mitigate fraud in diaspora real estate. Focuses on auditable communication and financial tracking.
-
----
-
-### 🏆 Certifications
-* **Career Essentials in Software Development** - Awarding bodies: Microsoft & LinkedIn
-- **Advanced ICDL License** - Main topics: Word Processing, Spreadsheets (Excel), Project Planning
