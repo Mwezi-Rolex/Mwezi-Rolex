@@ -25,24 +25,33 @@ I am a third-year **Computer Science student at Strathmore University** with a p
 
 ---
 
-### Featured Projects
+### 📂 Flagship Projects
 
-#### [Rent Management System (RMS)](https://github.com/Mwezi-Rolex/rent_management_system)
-_Full-Stack Fintech Solution_
-* **Tech:** React.js, Node.js, MySQL, M-Pesa API, WorkOS AuthKit.
-* **Impact:** Automates rent collection via **M-Pesa API**, featuring real-time transaction verification (STK Push) and Role-Based Access Control (RBAC) for Landlords/Tenants.
+#### 🚌 [Voyage Flow](https://github.com/Mwezi-Rolex/Voyage-Flow)
+**Tech:** Android (Java/Kotlin), Google Maps SDK
+* **The Problem:** Solves the "unknown stage location" problem for Nairobi commuters by digitizing matatu routes.
+* **The Solution:** An Android app featuring real-time location tracking and static route visualization.
+* **Key Feature:** Implemented i18n (Internationalization) to switch interfaces between English, French, and Swahili.
 
-#### [Voyage Flow](https://github.com/Mwezi-Rolex/Voyage-Flow)
-_Nairobi Transport Navigation App_
-* **Tech:** Android (Java/Kotlin), Google Maps SDK.
-* **Impact:** Solves the "unknown stage location" problem for Nairobi commuters. Features real-time tracking, static route visualization, and i18n support (Eng/Fre/Swa).
+#### 💳 [Rent Management System](https://github.com/Mwezi-Rolex/rent_management_system)
+**Tech:** React.js, Node.js, MySQL, M-Pesa API
+* **The Problem:** Manual rent collection is prone to errors and lacks real-time verification.
+* **The Solution:** A full-stack platform integrated with the **M-Pesa API** to automate rent collection and invoice reconciliation.
+* **Key Feature:** Secure Role-Based Access Control (RBAC) separating "Landlord" and "Tenant" dashboards.
 
-#### [Metro Network Interchange Classifier](https://github.com/Mwezi-Rolex/Metro-Network-Classifier)
-_AI/ML Transportation Model_
-* **Tech:** Python, Pandas, Scikit-Learn.
-* **Impact:** A Supervised Learning model predicting high-traffic interchange hubs in metro networks. Utilizes geospatial data feature engineering.
+#### 💼 [Interspark](https://github.com/Mwezi-Rolex/interspark)
+**Tech:** React.js, Node.js, SQL, MVC Architecture
+* **Overview:** An Internship Management System designed to streamline the placement process.
+* **Contribution:** Designed a structured **MVC (Model-View-Controller)** architecture to separate frontend interfaces from backend logic.
+* **Leadership:** Led technical development and managed version control via Git for the team.
 
-#### [Makao](https://github.com/Mwezi-Rolex/Makao)
-_Diaspora Investment Platform Prototype_
-* **Tech:** Figma, Double Diamond Framework.
-* **Impact:** Designed to mitigate fraud in diaspora real estate. Focuses on auditable communication and financial tracking.
+---
+
+### 💻 Web & Academic Portfolio
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Hospital Management System** | Comprehensive system for patient and record management. | [View Repo](https://github.com/Mwezi-Rolex/IS-PROJECT-1) |
+| **Real Estate Listings** | Web application for browsing and filtering property listings. | [View Repo](https://github.com/Mwezi-Rolex/Real_Estate_Listings) |
+| **GPA Genius** | A dynamic GPA calculator website for students. | [View Repo](https://github.com/Mwezi-Rolex/GPA-Genius) |
+| **Ayoayo** | A web-based implementation of the traditional Ayoayo board game. | [View Repo](https://github.com/Mwezi-Rolex/Ayoayo) |
