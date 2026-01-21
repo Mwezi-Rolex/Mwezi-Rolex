@@ -1,12 +1,12 @@
-# Hi there, I'm Samuel Mugabi Mwesigwa!
+# Hi there, I'm Samuel Mwesigwa!
 
 ### Software Engineering Intern | Full Stack Developer | Product Engineer
 
 I am a third-year **Computer Science student at Strathmore University** with a passion for building scalable solutions in **FinTech**, **Logistics**, and **EdTech**. I bridge the gap between technical complexity and user needs, leveraging experience in **Spring Boot**, **Android**, and **React**.
 
 - I’m currently working on **Voyage Flow** (Android Transport App) and **Rent Management System** (Fintech).
-- I’m looking to collaborate on **Open Source Java/Spring Boot projects** or **Android Apps**.
-- Fun fact: I developed a zero-cost mail merge system for my Business Club using Google Apps Script!
+- I’m looking to collaborate on **Open Source Java/C# projects** or **Android Apps**.
+- Fun fact: I developed a **zero-cost mail merge system** for my Business Club using Google Apps Script!
 
 ---
 
@@ -45,13 +45,18 @@ I am a third-year **Computer Science student at Strathmore University** with a p
 * **Contribution:** Designed a structured **MVC (Model-View-Controller)** architecture to separate frontend interfaces from backend logic.
 * **Leadership:** Led technical development and managed version control via Git for the team.
 
+#### [P2P Tutoring Platform](https://github.com/Mwezi-Rolex/IS-PROJECT-1)
+**Tech:** Laravel (PHP 8.4), Nginx, Apache, PostgreSQL, Microsoft Azure
+* **Overview:** A cloud-hosted peer-to-peer learning platform designed to facilitate student mentoring and course registration.
+* **Infrastructure:** Architected the production environment on **Microsoft Azure**, configuring **Nginx** (ports 80/443) as a secure reverse proxy to handle traffic for the **Apache** backend (port 8080).
+* **DevOps:** Managed the full deployment pipeline, including **SSL/TLS certification** (PositiveSSL) via OpenSSL and **DNS** configuration for subdomains.
+
 ---
 
 ### Web & Academic Portfolio
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **Hospital Management System** | Comprehensive system for patient and record management. | [View Repo](https://github.com/Mwezi-Rolex/IS-PROJECT-1) |
 | **Real Estate Listings** | Web application for browsing and filtering property listings. | [View Repo](https://github.com/Mwezi-Rolex/Real_Estate_Listings) |
 | **GPA Genius** | A dynamic GPA calculator website for students. | [View Repo](https://github.com/Mwezi-Rolex/GPA-Genius) |
 | **Ayoayo** | A web-based implementation of the traditional Ayoayo board game. | [View Repo](https://github.com/Mwezi-Rolex/Ayoayo) |
