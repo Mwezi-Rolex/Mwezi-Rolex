@@ -10,7 +10,7 @@ I am a third-year **Computer Science student at Strathmore University** with a p
 
 ---
 
-### 🏆 Certifications
+### Certifications
 * **Career Essentials in Software Development** (Microsoft & LinkedIn)
 - **Advanced ICDL License** (Word Processing, Spreadsheets/Excel, Project Planning)
 
@@ -25,21 +25,21 @@ I am a third-year **Computer Science student at Strathmore University** with a p
 
 ---
 
-### 📂 Flagship Projects
+### Flagship Projects
 
-#### 🚌 [Voyage Flow](https://github.com/Mwezi-Rolex/Voyage-Flow)
+#### [Voyage Flow](https://github.com/Mwezi-Rolex/Voyage-Flow)
 **Tech:** Android (Java/Kotlin), Google Maps SDK
 * **The Problem:** Solves the "unknown stage location" problem for Nairobi commuters by digitizing matatu routes.
 * **The Solution:** An Android app featuring real-time location tracking and static route visualization.
 * **Key Feature:** Implemented i18n (Internationalization) to switch interfaces between English, French, and Swahili.
 
-#### 💳 [Rent Management System](https://github.com/Mwezi-Rolex/rent_management_system)
+#### [Rent Management System](https://github.com/Mwezi-Rolex/rent_management_system)
 **Tech:** React.js, Node.js, MySQL, M-Pesa API
 * **The Problem:** Manual rent collection is prone to errors and lacks real-time verification.
 * **The Solution:** A full-stack platform integrated with the **M-Pesa API** to automate rent collection and invoice reconciliation.
 * **Key Feature:** Secure Role-Based Access Control (RBAC) separating "Landlord" and "Tenant" dashboards.
 
-#### 💼 [Interspark](https://github.com/Mwezi-Rolex/interspark)
+#### [Interspark](https://github.com/Mwezi-Rolex/interspark)
 **Tech:** React.js, Node.js, SQL, MVC Architecture
 * **Overview:** An Internship Management System designed to streamline the placement process.
 * **Contribution:** Designed a structured **MVC (Model-View-Controller)** architecture to separate frontend interfaces from backend logic.
@@ -47,7 +47,7 @@ I am a third-year **Computer Science student at Strathmore University** with a p
 
 ---
 
-### 💻 Web & Academic Portfolio
+### Web & Academic Portfolio
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
