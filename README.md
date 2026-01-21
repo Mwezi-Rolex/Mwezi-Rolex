@@ -6,7 +6,7 @@ I am a third-year **Computer Science student at Strathmore University** with a p
 
 - I’m currently working on **Voyage Flow** (Android Transport App) and **Rent Management System** (Fintech).
 - I’m looking to collaborate on **Open Source Java/C# projects** or **Android Apps**.
-- Fun fact: I developed a **zero-cost mail merge system** for my Business Club using Google Apps Script!
+- Fun fact: Rolex refers to my favourite snack in Uganda, not the popular watch brand!
 
 ---
 
